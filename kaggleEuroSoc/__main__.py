@@ -1,2 +1,2 @@
-from kaggleEuroSoc import kaggleEuroSoc
-kaggleEuroSoc.main()
+from kaggleEuroSoc import core
+core.main()
